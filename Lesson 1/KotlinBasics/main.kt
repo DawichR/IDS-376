@@ -58,8 +58,9 @@ fun main() {
 
     println("Uso de nulos (Nullability) ")
     var numeroNulo: Int? = null // variable entera qeu puede ser numerica
+    val elvis = numeroNulo?.dec() ?: -1 // Utilizando el Operador Elvis
     numeroNulo = 5
-
+    println("Operador Elvis:" + elvis)
     if (numeroNulo != null) {
         numeroNulo = numeroNulo.dec() // su numeroNulo no esta nulo, decrementa
     }
