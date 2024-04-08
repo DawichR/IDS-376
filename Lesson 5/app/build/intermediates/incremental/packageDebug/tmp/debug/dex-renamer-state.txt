@@ -1,0 +1,4 @@
+#Thu Mar 07 02:32:22 BOT 2024
+base.0=E\:\\Dominico\\Cuatrimetre 10\\Programacion Movil II\\IDS-376\\Lesson 5\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
