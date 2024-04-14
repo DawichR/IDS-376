@@ -20,7 +20,7 @@ import com.example.dessertclicker.R
 import com.example.dessertclicker.model.Dessert
 
 /**
- * [Datasource] generates a list of [Dessert]
+ * Lista de los "desert" o bocadillos que se van utilizar a paritr de su precio y cantidad de producción
  */
 object Datasource {
     val dessertList = listOf(

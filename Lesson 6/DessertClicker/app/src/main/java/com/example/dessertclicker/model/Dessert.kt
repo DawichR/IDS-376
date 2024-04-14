@@ -17,6 +17,6 @@
 package com.example.dessertclicker.model
 
 /**
- * [Dessert] is the data class to represent the Dessert imageId, price, and startProductionAmount
+ *  Este modelo indica el Id de imagen que se usara, el precio y el inicio de la cantidad de producción
  */
 data class Dessert(val imageId: Int, val price: Int, val startProductionAmount: Int)
