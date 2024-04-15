@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Desemfoque App</string>
+
+     <!-- Títulos -->
+    <string name="blur_title">Seleccionar Nivel de Desenfoque</string>
+
+    <!-- Botones -->
+    <string name="select_image">Seleccionar Imagen</string>
+    <string name="go">Ir</string>
+    <string name="see_file">Ver Archivo</string>
+
+    <!-- Descripciones de contenido -->
+    <string name="description_image">La imagen a desenfocar y guardar.</string>
+
+    <!-- Niveles de desenfoque -->
+    <string name="blur_lv_1">Un poco desenfocado</string>
+    <string name="blur_lv_2">Más desenfocado</string>
+    <string name="blur_lv_3">El más desenfocado</string>
+    <string name="cancel_work">Cancelar Trabajo</string>
+
+    <!-- Mensajes -->
+    <string name="set_permissions_in_settings">Ve a Configuración -> Aplicaciones y Notificaciones ->
+        Demo de WorkManager -> Permisos de la Aplicación y concede acceso al Almacenamiento.</string>
+</resources>
