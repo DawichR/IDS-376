@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Juego de palabras</string>
+    <string name="instructions">decifra la palabra viendo las letras.</string>
+    <string name="skip">Saltar</string>
+    <string name="submit">Enviar</string>
+    <string name="score">Puntaje: %d</string>
+    <string name="word_count">%d/10</string>
+    <string name="enter_your_word">Escribe la palabra</string>
+    <string name="congratulations">Enhorabuena!</string>
+    <string name="you_scored">"Tu puntaje es: %d"</string>
+    <string name="exit">Salir</string>
+    <string name="play_again">Jugar nuevamente</string>
+    <string name="wrong_guess">No adivinaste!</string>
+</resources>
