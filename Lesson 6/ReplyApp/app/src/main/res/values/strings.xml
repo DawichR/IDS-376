@@ -1,0 +1,160 @@
+<resources>
+    <string name="app_name">Responder</string>
+    <string name="navigation_drawer">Cajón de navegación</string>
+    <string name="navigation_rail">Carril de navegación</string>
+    <string name="navigation_bottom">Navegación inferior</string>
+    <string name="navigation_back">Atrás</string>
+    <string name="details_screen">Pantalla de detalles</string>
+    <string name="tab_inbox">Bandeja de entrada</string>
+    <string name="tab_sent">Enviados</string>
+    <string name="tab_drafts">Borradores</string>
+    <string name="tab_spam">Correo no deseado</string>
+    <string name="logo">Logotipo</string>
+
+    <string name="profile">Perfil</string>
+    <string name="reply">Responder</string>
+    <string name="reply_all">Responder a todos</string>
+    <string name="continue_composing">Continuar redactando</string>
+    <string name="delete">Eliminar</string>
+    <string name="move_to_inbox">Mover a la bandeja de entrada</string>
+
+    <string name="account_1_first_name">Jeff</string>
+    <string name="account_1_last_name">Hansen</string>
+    <string name="account_1_email">hikingfan@altostrat.com</string>
+
+    <string name="account_4_first_name">Tracy</string>
+    <string name="account_4_last_name">Alvarez</string>
+    <string name="account_4_email">tracealvie@altostrat.com</string>
+
+    <string name="account_5_first_name">Allison</string>
+    <string name="account_5_last_name">Trabucco</string>
+    <string name="account_5_email">atrabucco222@altostrat.com</string>
+
+    <string name="account_6_first_name">Ali</string>
+    <string name="account_6_last_name">Connors</string>
+    <string name="account_6_email">aliconnors@altostrat.com</string>
+
+    <string name="account_7_first_name">Alberto</string>
+    <string name="account_7_last_name">Williams</string>
+    <string name="account_7_email">albertowilliams124@altostrat.com</string>
+
+    <string name="account_8_first_name">Kim</string>
+    <string name="account_8_last_name">Alen</string>
+    <string name="account_8_email">alen13@altostrat.com</string>
+
+    <string name="account_9_first_name">Google</string>
+    <string name="account_9_last_name">Express</string>
+    <string name="account_9_email">express@altostrat.com</string>
+
+    <string name="account_10_first_name">Sandra</string>
+    <string name="account_10_last_name">Adams</string>
+    <string name="account_10_email">sandraadams@altostrat.com</string>
+
+    <string name="account_11_first_name">Trevor</string>
+    <string name="account_11_last_name">Hansen</string>
+    <string name="account_11_email">trevorhandsen@altostrat.com</string>
+
+    <string name="account_12_first_name">Sean</string>
+    <string name="account_12_last_name">Holt</string>
+    <string name="account_12_email">sholt@altostrat.com</string>
+
+    <string name="account_13_first_name">Frank</string>
+    <string name="account_13_last_name">Hawkins</string>
+    <string name="account_13_email">fhawkank@altostrat.com</string>
+
+    <string name="email_0_subject">¡Paquete enviado!</string>
+    <string name="email_0_body">
+        El Facial de Mascarilla de Pepino ha sido enviado.\n\nEsté atento a un paquete que llegará entre este
+        jueves y el próximo martes. Si por alguna razón no recibe su paquete antes del final de la próxima semana,
+        comuníquese con nosotros para obtener detalles sobre su envío.\n\nComo siempre, gracias por comprar con nosotros
+        ¡y esperamos que te encante nuestra Mascarilla de Pepino especialmente formulada!
+    </string>
+    <string name="email_0_time">Hace 20 minutos</string>
+
+    <string name="email_1_subject">¿Brunch este fin de semana?</string>
+    <string name="email_1_body">
+        Estaré en tu vecindario haciendo mandados y esperaba encontrarme contigo para tomar un café este
+        sábado. Si no tienes nada programado, ¡sería genial verte! Parece que
+        ha pasado una eternidad.\n\nSi logramos encontrarnos, recuérdame contarte sobre Kim.
+        Ella pasó por la casa para saludar a los niños y me contó todo sobre su viaje a
+        México.\n\n¡Nos vemos pronto!\nAli
+    </string>
+    <string name="email_1_time">Hace 40 minutos</string>
+
+    <string name="email_2_subject">Bonjour desde París</string>
+    <string name="email_2_body">
+        Aquí hay algunas excelentes fotos de mi viaje...
+    </string>
+    <string name="email_2_time">Hace 1 hora</string>
+
+    <string name="email_3_subject">¿Reunión de la escuela secundaria?</string>
+    <string name="email_3_body">
+        Hola amigos,\n\nEstaba en el supermercado el domingo por la noche... ¡cuando me encontré con Genie Williams!
+        ¡Casi no la reconocí después de 20 años!\n\nDe todos modos, resulta que ella está en el
+        comité organizador para la reunión de la escuela secundaria este otoño. No sé si ibas a ir o no, pero
+        definitivamente podría usar nuestra ayuda para tratar de localizar a muchos
+        ex alumnos faltantes.\n\nSi puedes venir, estamos haciendo una pequeña fiesta telefónica en su casa
+        el próximo sábado, con la esperanza de que si podemos encontrar a una persona, habrá más...
+    </string>
+    <string name="email_3_time">Hace 2 horas</string>
+
+    <string name="email_4_subject">Viaje a Brasil</string>
+    <string name="email_4_body">
+        Pensé que podríamos revisar algunos detalles sobre nuestras próximas vacaciones.\n\nHe estado
+        investigando un poco y he encontrado algunos lugares en el norte de Brasil que creo que deberíamos visitar.
+        Uno, el norte tiene uno de los vientos más predecibles del planeta. Me encant
+
+aría salir al océano y hacer kitesurf
+        durante un par de días si vamos a estar cerca o alrededor de Taiba. He oído que es hermoso allí y si estás de acuerdo,
+        me encantaría ir. Aparte de eso, no he pasado mucho tiempo buscando lugares a lo largo de nuestro
+        ruta por carretera. Supongo que podemos encontrar lugares para alojarnos y cosas que hacer mientras conducimos y
+        encontramos lugares que nos parezcan interesantes. Pero... sé que eres más planificador, así que si tienes ideas o lugares en mente,
+        ¡anotemos algunas ideas!\n\nTal vez podamos hablar por teléfono más tarde hoy si tienes un segundo.
+    </string>
+    <string name="email_4_time">Hace 2 horas</string>
+
+    <string name="email_5_subject">Actualización de tu itinerario</string>
+    <string name="email_5_body"></string>
+    <string name="email_5_time">Hace 2 horas</string>
+
+    <string name="email_6_subject">Receta para probar</string>
+    <string name="email_6_body">
+        Tarta de frambuesa: ¡Deberíamos hacer esta receta de tarta esta noche! El relleno es muy rápido de hacer.
+    </string>
+    <string name="email_6_time">Hace 2 horas</string>
+
+    <string name="email_7_subject">Entregado</string>
+    <string name="email_7_body">
+        ¡Tus zapatos deberían estar esperándote en casa!
+    </string>
+    <string name="email_7_time">Hace 2 horas</string>
+
+    <string name="email_8_subject">¡Tu actualización en Google Play Store está en vivo!</string>
+    <string name="email_8_body">
+        Tu actualización, 0.1.1, ya está disponible en la Play Store y disponible para que tus usuarios alpha comiencen a probar.
+        Tus probadores alpha serán notificados automáticamente. Si prefieres enviarles un enlace directamente, ve a tu
+        Consola de Google Play y sigue las instrucciones para obtener un enlace de prueba alpha abierto.
+    </string>
+    <string name="email_8_time">Hace 3 horas</string>
+
+    <string name="email_9_subject">(Sin asunto)</string>
+    <string name="email_9_body">
+        Oye,\n\nQuería enviarte un correo electrónico y ver qué pensabas de
+    </string>
+    <string name="email_9_time">Hace 3 horas</string>
+
+    <string name="email_10_subject">Prueba una cuenta gratuita de TrailGo</string>
+    <string name="email_10_body">
+        ¿Buscas los mejores senderos para caminar en tu área? TrailGo te lleva al camino hacia el
+        aire libre más rápido de lo que puedes hacer un sándwich.\n\nYa seas un excursionista experimentado o
+        simplemente buscando salir al aire libre por la tarde, hay un segmento que te conviene.
+    </string>
+    <string name="email_10_time">Hace 3 horas</string>
+
+    <string name="email_11_subject">Dinero gratis</string>
+    <string name="email_11_body">
+        ¡Has sido seleccionado como ganador en nuestra última rifa! Para reclamar tu premio, haz clic en el
+        enlace.
+    </string>
+    <string name="email_11_time">Hace 3 horas</string>
+</resources>
