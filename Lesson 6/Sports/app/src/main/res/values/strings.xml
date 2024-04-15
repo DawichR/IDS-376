@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Sports App</string>
+    <!-- Variables usada para la navegación -->
+    <string name="list_fragment_label">Deportes</string>
+    <string name="detail_fragment_label">Informacion</string>
+
+    <string name="baseball">Baseball</string>
+    <string name="badminton">Badminton</string>
+    <string name="basketball">Basketball</string>
+    <string name="bowling">Boliche</string>
+    <string name="cycling">Ciclismo</string>
+    <string name="golf">Golf</string>
+    <string name="running">Atletismo</string>
+    <string name="soccer">Futbol</string>
+    <string name="swimming">Natacion</string>
+    <string name="table_tennis">Tenis de mesa</string>
+    <string name="tennis">Tenis</string>
+
+    <string name="sports_list_subtitle">Deporte</string>
+    <string name="sport_detail_text">
+     El deporte es una actividad física que se realiza con el objetivo de mantener la salud, divertirse o competir. Hay una gran variedad de deportes en todo el mundo, cada uno con sus propias reglas y características. La práctica deportiva puede realizarse individualmente o en equipo, y puede llevarse a cabo tanto en espacios cerrados como al aire libre.
+    \n\n
+    Muchas personas disfrutan de la práctica deportiva como una forma de mantenerse en forma y saludables. Además, el deporte puede ayudar a desarrollar habilidades físicas y mentales, así como promover la camaradería y el trabajo en equipo.
+    \n\n
+    Los deportes son una parte importante de la cultura de muchas sociedades, y los eventos deportivos a menudo atraen a grandes audiencias y generan un gran interés público. Desde el fútbol hasta el baloncesto, pasando por el tenis y la natación, hay un deporte para cada gusto y preferencia.
+    \n\n
+    Independientemente de la edad o la habilidad, el deporte puede ser una actividad gratificante y enriquecedora. Ya sea que estés jugando en un equipo competitivo o simplemente dando un paseo en bicicleta, el deporte ofrece una forma divertida y emocionante de mantenerse activo y comprometido con un estilo de vida saludable.
+    </string>
+
+    <plurals name="player_count_caption">
+        <item quantity="one">1 Jugador</item>
+        <item quantity="other">%1$d Jugadores</item>
+    </plurals>
+    <string name="olympic_caption">Olimpico</string>
+
+    <string name="back_button">Atras</string>
+</resources>
