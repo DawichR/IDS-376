@@ -4,7 +4,7 @@ import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
 
 /**
- * Entidad para las fotos de marte
+ * Clase que representa las fotos o MarsPhoto
  */
 @Serializable
 data class MarsPhoto(
