@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusManiaApp</string>
+    <string name="full_schedule">Horario de Bus</string>
+    <string name="back">Atras</string>
+    <string name="stop_name">Nombre de parada</string>
+    <string name="route_stop_name">Parada</string>
+    <string name="arrival_time">Tiempo de llegada</string>
+</resources>
